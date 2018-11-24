@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">登录</string>
+    <string name="title_activity_forget_password">忘记密码</string>
+    <string name="title_activity_register">注册</string>
+    <string name="title_activity_select_country">选择国家</string>
+    <string name="title">title</string>
+</resources>
